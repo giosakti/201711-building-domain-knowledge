@@ -104,6 +104,24 @@
   : hide-title
     true
 
+= Participation
+
+(('tag:center'))Remember that, in the whole process everyone should participate!
+
+== properties
+  : hide-title
+    true
+
+= Participation
+
+(('tag:center'))The design team must consist of:
+
+= Participation
+
+* Software Architects
+* Developers
+* Domain Experts
+
 = Thanks!
 
 (('tag:center'))Thanks!
