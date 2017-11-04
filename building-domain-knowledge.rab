@@ -1,0 +1,113 @@
+= Building Domain Knowledge
+
+% : subtitle
+%   in Ruby
+: author
+   Giovanni Sakti
+: institution
+   Starqle
+% : content-source
+%    id_ruby
+% : date
+%    2017-11-01
+: theme
+   starqle
+
+= Domain Experts
+
+(('tag:center'))To build domain knowledge, first you have to pick domain experts.
+
+== properties
+  : hide-title
+    true
+
+= Domain Experts
+
+(('tag:center'))Make sure that you pick ((*correct*)) domain experts.
+
+= Domain Experts
+
+(('tag:center'))Afterwards, the knowledge exchange process can begin.
+
+= Domain Experts
+
+(('tag:center'))Domain experts know their area of expertise well, but they organize and use their knowledge in a ((*specific*)) way..
+
+= Domain Experts
+
+(('tag:center'))..most of the time, it is not always the best to be implemented into a software system.
+
+= Domain Experts
+
+(('tag:center'))This is where software engineers shine.
+
+= Domain Experts
+
+(('tag:center'))The analytical mind of the software engineers help unearth some of the key concepts of the domain.
+
+= Common Language
+
+(('tag:center'))The Need for a Common Language
+
+== properties
+  : hide-title
+    true
+
+= Common Language
+
+(('tag:center'))Developers and domain experts have different sets of knowledge with different language representing them.
+
+= Common Language
+
+(('tag:center'))Therefore DDD enforce us to ((*create a language*)) based on the model.
+
+= Common Language
+
+(('tag:center'))We should also use it for all communication and even to name things in our code.
+
+= Ubiquitous Language
+
+(('tag:center'))It is called ((*The Ubiquitous Language*)).
+
+= Ubiquitous Language
+
+(('tag:center'))We should create a language where:
+
+= Ubiquitous Language
+
+* Model and the language are ((*strongly interconnected*))
+* Change in the language must change the model
+
+= Ubiquitous Language
+
+* Domain experts should ((*object*)) to terms that are awkward or inadequate to convey domain understanding
+* If terms used was not understandable by the domain experts, ((*something is wrong*)) with the language
+
+= Ubiquitous Language
+
+* Developers should watch out for ((*ambiguity*)) or ((*inconsistency*)) that tends to appear
+
+= Ubiquitous Language
+
+(('tag:center'))Where should we document and utilize our new language?
+
+= Ubiquitous Language
+
+* On every speeches
+* On every documents
+  * Be wary of long documents
+* As diagrams
+  * It is recommended to create multiple subset of the model rather than try to create one large diagram over the entire model
+* As the codes itself
+
+== properties
+  : hide-title
+    true
+
+= Thanks!
+
+(('tag:center'))Thanks!
+
+== properties
+  : hide-title
+    true
